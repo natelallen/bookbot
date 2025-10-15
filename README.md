@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+A simple program that counts words and characters of a book from a .txt file. This was a guided project from boot.dev, and the first program I wrote all of the code for.
